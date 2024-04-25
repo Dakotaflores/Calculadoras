@@ -17,6 +17,7 @@ Para ejecutar la aplicación, sigue estos pasos:
 Aquí hay algunos ejemplos de cómo puedes usar la calculadora:
 
 - **Calcular Distancia (MRU):**
+
 Ingrese la velocidad (m/s): 10
 
 Ingrese el tiempo (s): 5
@@ -25,6 +26,7 @@ La distancia es: 50 metros.
 
 
 - **Calcular Velocidad Final (MRUA):**
+  
 Ingrese la velocidad inicial (m/s): 0
 
 Ingrese la aceleración (m/s^2): 9.8
