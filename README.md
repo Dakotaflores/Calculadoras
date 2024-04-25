@@ -11,3 +11,13 @@ Para ejecutar la aplicación, sigue estos pasos:
 2. Clona este repositorio en tu máquina local.
 3. Abre una terminal o línea de comandos y navega al directorio del proyecto.
 4. Ejecuta el siguiente comando para compilar y ejecutar la aplicación:
+
+
+## Ejemplos de Uso
+Aquí hay algunos ejemplos de cómo puedes usar la calculadora:
+
+- **Calcular Distancia (MRU):**
+Ingrese la velocidad (m/s): 10
+Ingrese el tiempo (s): 5
+La distancia es: 50 metros.
+
