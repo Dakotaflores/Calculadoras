@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Escritorio\Calculators\CodFuente\bin\Debug\net8.0\CodFuente.exe
+C:\Users\HP\OneDrive\Escritorio\Calculators\CodFuente\bin\Debug\net8.0\CodFuente.deps.json
+C:\Users\HP\OneDrive\Escritorio\Calculators\CodFuente\bin\Debug\net8.0\CodFuente.runtimeconfig.json
+C:\Users\HP\OneDrive\Escritorio\Calculators\CodFuente\bin\Debug\net8.0\CodFuente.dll
+C:\Users\HP\OneDrive\Escritorio\Calculators\CodFuente\bin\Debug\net8.0\CodFuente.pdb
+C:\Users\HP\OneDrive\Escritorio\Calculators\CodFuente\obj\Debug\net8.0\CodFuente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Escritorio\Calculators\CodFuente\obj\Debug\net8.0\CodFuente.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Calculators\CodFuente\obj\Debug\net8.0\CodFuente.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\Calculators\CodFuente\obj\Debug\net8.0\CodFuente.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Calculators\CodFuente\obj\Debug\net8.0\CodFuente.sourcelink.json
+C:\Users\HP\OneDrive\Escritorio\Calculators\CodFuente\obj\Debug\net8.0\CodFuente.dll
+C:\Users\HP\OneDrive\Escritorio\Calculators\CodFuente\obj\Debug\net8.0\refint\CodFuente.dll
+C:\Users\HP\OneDrive\Escritorio\Calculators\CodFuente\obj\Debug\net8.0\CodFuente.pdb
+C:\Users\HP\OneDrive\Escritorio\Calculators\CodFuente\obj\Debug\net8.0\CodFuente.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Escritorio\Calculators\CodFuente\obj\Debug\net8.0\ref\CodFuente.dll
