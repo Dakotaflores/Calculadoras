@@ -30,3 +30,5 @@ Se discutió la importancia de utilizar tecnologías y herramientas que permitan
 
 Historial de Cambios
 [2024-04-24] Creación de la historia de usuario por [Daniela] - Detalles de la historia de usuario
+
+
