@@ -1,61 +1,32 @@
-# Historia de Usuario No. X
+Historia de Usuario No. 2
 
-## Título de la Historia
+Soporte Multiplataforma
 
-`Como [rol], necesito [funcionalidad] para que [beneficio]`
+Como usuario, necesito que la calculadora funcione en múltiples plataformas (Windows, Linux, macOS) para adaptarse a mis necesidades y preferencias de desarrollo.
 
-## Descripción
+Descripción
+La capacidad de ejecutar la calculadora en diferentes plataformas asegura que los usuarios puedan acceder a la herramienta independientemente del sistema operativo que estén utilizando, lo que aumenta la accesibilidad y la flexibilidad.
 
-Breve descripción del contexto y la necesidad que cubre esta historia de usuario.
+Criterios de Aceptación
+La aplicación de calculadora debe ser compatible y ejecutable en sistemas operativos Windows, Linux y macOS.
+La aplicación debe proporcionar una experiencia de usuario consistente en todas las plataformas, manteniendo la misma funcionalidad y facilidad de uso.
+Los usuarios deben poder descargar e instalar la aplicación de calculadora en su plataforma preferida sin encontrar problemas de compatibilidad.
+La aplicación no debe depender de funcionalidades específicas de un sistema operativo en particular para garantizar la portabilidad.
+Prioridad
+Media
 
-## Criterios de Aceptación
+Estimación
+3 días
 
-Lista detallada de condiciones que debe cumplir la historia para considerarse completada.
+Notas/Tareas Adicionales
+- Realizar pruebas exhaustivas en cada plataforma para asegurar la compatibilidad y funcionalidad adecuada.
+- Utilizar herramientas de desarrollo multiplataforma como .NET Core para garantizar la portabilidad del código.
 
-1. **Criterio de Aceptación 1**
-   - Detalle específico del criterio
-   - Detalle específico del criterio
-2. **Criterio de Aceptación 2**
-   - Detalle específico del criterio
-   - Detalle específico del criterio
+Prototipos/Anexos
 
-## Prioridad
+Discusiones
+Compatibilidad Multiplataforma
+Se discutió la importancia de utilizar tecnologías y herramientas que permitan la portabilidad del código, como .NET Core, para garantizar que la aplicación sea compatible con diferentes sistemas operativos.
 
-Indicar la prioridad de esta historia de usuario. Puede ser Alta, Media o Baja.
-
-## Estimación
-
-Tiempo estimado para completar esta historia de usuario. Se puede utilizar puntos de historia, días u horas, según la convención del equipo.
-
-## Notas/Tareas Adicionales
-
-Espacio para anotar cualquier tarea adicional, notas, o dependencias relacionadas con esta historia de usuario.
-
-- [ ] Tarea adicional 1
-- [ ] Tarea adicional 2
-- [ ] Tarea adicional 3
-
-## Prototipos/Anexos
-
-Incluir cualquier prototipo, wireframe, diagrama o anexos que ayuden a entender mejor la historia de usuario.
-
-- ![Prototipo 1](url_del_prototipo_1)
-- ![Wireframe 2](url_del_wireframe_2)
-
-## Discusiones
-
-Resumen de las discusiones importantes que han tenido lugar en relación con esta historia de usuario. Incluir decisiones clave y justificaciones.
-
-1. **Discusión 1**
-   - Resumen de la discusión
-   - Decisiones y justificaciones
-2. **Discusión 2**
-   - Resumen de la discusión
-   - Decisiones y justificaciones
-
-## Historial de Cambios
-
-Registro de cambios significativos en la historia de usuario, incluyendo fechas y detalles del cambio.
-
-- **[Fecha]** Cambio realizado por [Persona] - Detalle del cambio
-- **[Fecha]** Cambio realizado por [Persona] - Detalle del cambio
+Historial de Cambios
+[2024-04-24] Creación de la historia de usuario por [Daniela] - Detalles de la historia de usuario
