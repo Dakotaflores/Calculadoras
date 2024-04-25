@@ -92,6 +92,6 @@ class Program
 
         double Areadelrectangulo = Basedelrectangulo * Alturadelrectangulo;
 
-        Console.WriteLine("$Area del rectangulo: {Areadelrectangulo} metros");
+        Console.WriteLine($"Area del rectangulo: {Areadelrectangulo} metros");
     }
 }
