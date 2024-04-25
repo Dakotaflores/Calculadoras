@@ -1,38 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-/*using System;
-
-namespace CalculadoraFisica
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Calculadora calculadora = new Calculadora();
-            Interfaz interfaz = new Interfaz(calculadora);
-            interfaz.Ejecutar();
-        }
-    }
-
-
-    public class Calculadora
-    {
-        public double CalcularDistancia(double velocidad, double tiempo)
-        {
-            return velocidad * tiempo;
-        }
-
-        public double CalcularVelocidad(double distancia, double tiempo)
-        {
-            return distancia / tiempo;
-        }
-
-        public double CalcularTiempo(double distancia, double velocidad)
-        {
-            return distancia / velocidad;
-        }
-
-        // Implementa los métodos restantes para MRUA
-    }*/
 
 using System;
 
