@@ -13,6 +13,7 @@ namespace CalculadoraFisica
         }
     }
 
+
     public class Calculadora
     {
         public double CalcularDistancia(double velocidad, double tiempo)
