@@ -12,7 +12,8 @@ class Program
             Console.WriteLine("Seleccione el tipo de cálculo:");
             Console.WriteLine("1. Movimiento Rectilíneo Uniforme (MRU)");
             Console.WriteLine("2. Movimiento Rectilíneo Uniformemente Acelerado (MRUA)");
-            Console.WriteLine("3. Salir");
+            Console.WriteLine("3. Area de un rectangulo");
+            Console.WriteLine("4. Salir");
 
             int opcion = int.Parse(Console.ReadLine());
 
@@ -26,6 +27,10 @@ class Program
             }
             else if (opcion == 3)
             {
+                CalcularArea();
+            }
+            else if (opcion == 4)
+            {
                 Console.WriteLine("¡Hasta luego!");
                 break;
             }
@@ -35,6 +40,9 @@ class Program
             }
         }
     }
+    // opcion 4, salir  
+    //opcion 3, otro calculo, 
+    //calcular el area de un rectangulo, pedir la base y la altura
 
     static void CalcularMRU()
     {
@@ -72,5 +80,18 @@ class Program
         Console.WriteLine($"Posición final (x = x0 + v0 * t + 0.5 * a * t^2): {posicionFinal} metros");
         Console.WriteLine($"Velocidad final (v = v0 + a * t): {nuevaVelocidad} m/s");
         Console.WriteLine($"Tiempo (t = (v - v0) / a): {nuevoTiempo} segundos");
+    }
+
+    static void CalcularArea()
+    {
+        Console.WriteLine("Ingrese los valores para el calculo del area de un rectangulo: ");
+        Console.Write("Medida de la base (m): ");
+        double Basedelrectangulo = double.Parse(Console.ReadLine());
+        Console.Write("Medida de la altura: ");
+        double Alturadelrectangulo = double.Parse(Console.ReadLine());
+
+        double Areadelrectangulo = Basedelrectangulo * Alturadelrectangulo;
+
+        Console.WriteLine("$Area del rectangulo: {Areadelrectangulo} metros");
     }
 }
